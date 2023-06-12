@@ -17,8 +17,7 @@ module.exports = {
     historyApiFallback: true,
   },
   assetsDir:"./assets/",
-  outputDir:"/Users/ddingo/Desktop/Project/0.bbodekboardServer/meBoard/src/main/resources/static/",
-  //outputDir: "C:/Users/mwpar/Desktop/Project_/0.Project_Source/1.bbodekServer/meBoard/src/main/resources/static",
+  outputDir:"",
   // outputDir:"../../main/resources/static/",
   transpileDependencies : ['vuetify'],
 }
