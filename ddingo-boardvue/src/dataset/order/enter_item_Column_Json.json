@@ -1,0 +1,71 @@
+[
+  {
+    "text" :  "입고키",
+    "value" : "enterCode",
+    "width": "150px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장코드",
+    "value" : "fabCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장 명",
+    "value" : "fabName",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래처 코드",
+    "value" : "accountCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래처 명",
+    "value" : "accountName",
+    "width": "200px"
+  },
+  {
+    "text" :  "품목 종류",
+    "value" : "itemType",
+    "width": "200px"
+  },
+  {
+    "text" :  "품목 코드",
+    "value" : "itemCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "품목",
+    "value" : "itemName",
+    "width": "200px"
+  },
+  {
+    "text" :  "입고 수량(ps)",
+    "value" : "enterItem",
+    "sortable" : false,
+    "width": "200px"
+  },
+  {
+    "text" :  "불량 수량(ps)",
+    "value" : "dfCount",
+    "sortable" : false,
+    "width": "200px"
+  },
+  {
+    "text" :  "불량 이미지",
+    "value" : "dfImg",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "검수자",
+    "value" : "insManger",
+    "sortable" : false,
+    "width": "200px"
+  }
+]

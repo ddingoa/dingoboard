@@ -1,0 +1,84 @@
+[
+  {
+    "text" :  "거래처코드",
+    "value" : "vendorCd",
+    "width": "80px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래처 명",
+    "value" : "vendorNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "반 코드",
+    "value" : "classCd",
+    "width": "80px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "반 명",
+    "value" : "className",
+    "width": "80px"
+  },
+  {
+    "text" :  "반 인원",
+    "value" : "classNumber",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "행정 주소",
+    "value" : "address2",
+    "width": "80px"
+  },
+  {
+    "text" :  "배송 코드",
+    "value" : "deliveryCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "제품 코드",
+    "value" : "goodsCd",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "제품명",
+    "value" : "goodsNm",
+    "width": "150px"
+  },
+  {
+    "text" :  "주문 수량",
+    "value" : "eaQty",
+    "width": "80px"
+  },
+  {
+    "width": "200px"
+  },
+  {
+    "text" :  "생성 시간",
+    "value" : "createdDate",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "생성자",
+    "value" : "regCd",
+    "width": "100px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "수정 시간",
+    "value" : "modifiedDate",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "수정자",
+    "value" : "modCd",
+    "width": "100px",
+    "align": " d-none"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "text" :  "포장 계획 코드",
+    "value" : "pkoCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장 코드",
+    "value" : "fabCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장 명",
+    "value" : "fabName",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "주문일",
+    "value" : "orderDate",
+    "width": "200px"
+  },
+  {
+    "text" :  "배송일",
+    "value" : "deliveryDate",
+    "width": "200px"
+  },
+  {
+    "text" :  "사용일",
+    "value" : "useDate",
+    "width": "200px"
+  },
+  {
+    "text" :  "거래처 코드",
+    "value" : "vendorCd",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래처 명",
+    "value" : "vendorNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "제품 코드",
+    "value" : "goodsCd",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "제품 명",
+    "value" : "goodsNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "제품 수량(Box)",
+    "value" : "orderQty",
+    "width": "200px"
+  },
+  {
+    "text" :  "제품 수량(EA)",
+    "value" : "eaQty",
+    "width": "200px"
+  },
+  {
+    "text" :  "포장 수량",
+    "value" : "pkItemCount",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "주말 운영 여부",
+    "value" : "holidaysApply",
+    "width": "80px"
+  },
+  { "text": "Actions", "value": "actions", "sortable": "false","width": "150px"}
+]

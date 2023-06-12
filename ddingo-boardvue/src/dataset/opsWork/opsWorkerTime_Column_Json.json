@@ -1,0 +1,128 @@
+[
+  {
+    "value" : "id"
+  },
+  {
+    "value" : "opcode"
+  },
+  {
+    "text" :  "20:00",
+    "value" : "workTime20",
+    "width": "100px"
+  },
+  {
+    "text" :  "21:00",
+    "value" : "workTime21",
+    "width": "100px"
+  },
+  {
+    "text" :  "22:00",
+    "value" : "workTime22",
+    "width": "100px"
+  },
+  {
+    "text" :  "23:00",
+    "value" : "workTime23",
+    "width": "200px"
+  },
+  {
+    "text" :  "00:00",
+    "value" : "workTime00",
+    "width": "100px"
+  },
+  {
+    "text" :  "01:00",
+    "value" : "workTime01",
+    "width": "100px"
+  },
+  {
+    "text" :  "02:00",
+    "value" : "workTime02",
+    "width": "100px"
+  },
+  {
+    "text" :  "03:00",
+    "value" : "workTime03",
+    "width": "100px"
+  },
+  {
+    "text" :  "04:00",
+    "value" : "workTime04",
+    "width": "100px"
+  },
+  {
+    "text" :  "05:00",
+    "value" : "workTime05",
+    "width": "100px"
+  },
+  {
+    "text" :  "06:00",
+    "value" : "workTime06",
+    "width": "100px"
+  },
+  {
+    "text" :  "07:00",
+    "value" : "workTime07",
+    "width": "100px"
+  },
+  {
+    "text" :  "08:00",
+    "value" : "workTime08",
+    "width": "100px"
+  },
+  {
+    "text" :  "09:00",
+    "value" : "workTime09",
+    "width": "100px"
+  },
+  {
+    "text" :  "10:00",
+    "value" : "workTime10",
+    "width": "100px"
+  },
+  {
+    "text" :  "11:00",
+    "value" : "workTime11",
+    "width": "100px"
+  },
+  {
+    "text" :  "12:00",
+    "value" : "workTime12",
+    "width": "100px"
+  },
+  {
+    "text" :  "13:00",
+    "value" : "workTime13",
+    "width": "100px"
+  },
+  {
+    "text" :  "14:00",
+    "value" : "workTime14",
+    "width": "100px"
+  },
+  {
+    "text" :  "15:00",
+    "value" : "workTime15",
+    "width": "100px"
+  },
+  {
+    "text" :  "16:00",
+    "value" : "workTime16",
+    "width": "100px"
+  },
+  {
+    "text" :  "17:00",
+    "value" : "workTime17",
+    "width": "100px"
+  },
+  {
+    "text" :  "18:00",
+    "value" : "workTime18",
+    "width": "100px"
+  },
+  {
+    "text" :  "19:00",
+    "value" : "workTime19",
+    "width": "100px"
+  }
+]

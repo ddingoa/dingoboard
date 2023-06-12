@@ -1,0 +1,87 @@
+[
+  {
+    "text" :  "id",
+    "value" : "id",
+    "align": " d-none"
+  },
+  {
+    "text" :  "작업 코드",
+    "value" : "opCode",
+    "width": "200px"
+  },
+  {
+    "text" :  "공장 코드",
+    "value" : "fabCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장 명",
+    "value" : "fabName",
+    "width": "200px"
+  },
+  {
+    "text" :  "라인 코드",
+    "value" : "lineCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "라인 명",
+    "value" : "lineName",
+    "width": "200px"
+  },
+  {
+    "text" :  "설비 코드",
+    "value" : "eqpCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "설비 명",
+    "value" : "eqpName",
+    "width": "200px"
+  },
+  {
+    "text" :  "제품 코드",
+    "value" : "itemCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "제품 명",
+    "value" : "itemName",
+    "width": "200px"
+  },
+  {
+    "text" :  "실적 시간",
+    "value" : "inputTime",
+    "width": "200px"
+  },
+  {
+    "text" :  "실적 수량",
+    "value" : "workItemCount",
+    "width": "200px"
+  },
+  {
+    "text" :  "생성자",
+    "value" : "regCd",
+    "width": "200px"
+  },
+  {
+    "text" :  "생성 시간",
+    "value" : "createdDate",
+    "width": "200px"
+  },
+  {
+    "text" :  "수정자",
+    "value" : "modCd",
+    "width": "200px"
+  },
+  {
+    "text" :  "수정 시간",
+    "value" : "modifiedDate",
+    "width": "200px"
+  }
+
+]

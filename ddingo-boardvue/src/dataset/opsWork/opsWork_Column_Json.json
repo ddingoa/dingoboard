@@ -1,0 +1,57 @@
+[
+  { "text": "Actions", "value": "actions", "sortable": "false","width": "150px"},
+  {
+    "text" :  "작업 코드",
+    "value" : "workCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "작업 명",
+    "value" : "workName",
+    "width": "200px"
+  },
+  {
+    "text" :  "설비 코드",
+    "value" : "eqpCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "설비 명",
+    "value" : "eqpName",
+    "width": "200px"
+  },
+  {
+    "text" :  "작업 관리자",
+    "value" : "lineManager",
+    "width": "200px"
+  },
+  {
+    "text" :  "작업 필수 인원",
+    "value" : "rePerson",
+    "width": "200px"
+  },
+  {
+    "text" :  "생성 시간",
+    "value" : "createdDate",
+    "width": "200px",
+    "dataType": "Date"
+  },
+  {
+    "text" :  "생성자",
+    "value" : "regCd",
+    "width": "100px"
+  },
+  {
+    "text" :  "수정 시간",
+    "value" : "modifiedDate",
+    "width": "200px",
+    "dataType": "Date"
+  },
+  {
+    "text" :  "수정자",
+    "value" : "modCd",
+    "width": "100px"
+  }
+]

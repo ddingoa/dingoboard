@@ -1,0 +1,46 @@
+[
+  { "text": "Actions", "value": "actions", "sortable": "false","width": "100px"},
+  { "text": "QR Open", "value": "Open", "sortable": "false","width": "120px"},
+  {
+    "text" :  "사용자 이메일",
+    "value" : "email",
+    "width": "200px"
+  },
+  {
+    "text" :  "사용자 명",
+    "value" : "userName",
+    "width": "200px"
+  },
+  {
+    "text" :  "비밀 번호",
+    "value" : "password",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장 코드",
+    "value" : "fabCode",
+    "width": "200px"
+  },
+  {
+    "text" :  "공장 명",
+    "value" : "fabName",
+    "width": "200px"
+  },
+  {
+    "text" :  "라인 코드",
+    "value" : "lineCode",
+    "width": "200px"
+  },
+  {
+    "text" :  "라인 명",
+    "value" : "lineName",
+    "width": "200px"
+  },
+  {
+    "text" :  "초기 비밀번호 변경 여부",
+    "value" : "userCheckInit",
+    "width": "200px"
+  }
+
+]

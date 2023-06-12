@@ -1,0 +1,56 @@
+[
+  { "text": "Actions", "value": "actions", "sortable": "false","width": "150px"},
+  {
+    "text" :  "공장 코드",
+    "value" : "fabCode",
+    "sortable": "false",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장명",
+    "value" : "fabName",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "상품코드",
+    "value" : "goodsCd",
+    "width": "200px"
+  },
+  {
+    "text" :  "상품명",
+    "value" : "goodsNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "사업부",
+    "value" : "divisionCd",
+    "width": "200px"
+  },
+  {
+    "text" :  "상품 종류",
+    "value" : "goodsType",
+    "width": "200px"
+  },
+  {
+    "text" :  "재질",
+    "value" : "material",
+    "width": "200px"
+  },
+  {
+    "text" :  "중량",
+    "value" : "weight",
+    "width": "200px"
+  },
+  {
+    "text" :  "Box당 포장 수량",
+    "value" : "packingQuantity",
+    "width": "200px"
+  },
+  {
+    "text" :  "비닐 포장 여부",
+    "value" : "plasticWrap",
+    "width": "200px"
+  }
+]

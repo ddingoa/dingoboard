@@ -1,0 +1,42 @@
+[
+  {
+    "text" :  "상품코드",
+    "value" : "goodsCd",
+    "width": "200px"
+  },
+  {
+    "text" :  "상품명",
+    "value" : "goodsNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "상품 종류",
+    "value" : "goodsType",
+    "width": "200px"
+  },
+  {
+    "text" :  "재질",
+    "value" : "material",
+    "width": "200px"
+  },
+  {
+    "text" :  "색상",
+    "value" : "color",
+    "width": "200px"
+  },
+  {
+    "text" :  "Box당 포장 수량",
+    "value" : "packingQuantity",
+    "width": "200px"
+  },
+  {
+    "text" :  "기본 낱개 생산량 (ps)",
+    "value" : "fubItemPsCount",
+    "width": "200px"
+  },
+  {
+    "text" :  "기본 생산량(box)",
+    "value" : "fubItemCount",
+    "width": "200px"
+  }
+]

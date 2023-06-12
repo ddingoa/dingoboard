@@ -1,0 +1,60 @@
+[
+  {
+    "text" :  "제품 코드",
+    "value" : "itemCode",
+    "width": "150px"
+  },
+  {
+    "text" :  "제품 명",
+    "value" : "itemName",
+    "width": "200px"
+  },
+  {
+    "text" :  "사업부",
+    "value" : "business",
+    "width": "100px",
+    "divider": true
+  },
+  {
+    "text" :  "생산 완료 수량(ps)",
+    "value" : "wrokTotalItemPsCount",
+    "width": "170px"
+  },
+  {
+    "text" :  "포장 완료 수량(ps)",
+    "value" : "pakingTotalItemPsCount",
+    "width": "170px"
+  },
+  {
+    "text" :  "발주 수량(ps)",
+    "value" : "orderTotalItemPsCount",
+    "width": "170px",
+    "divider": true
+  },
+  {
+    "text" :  "안전 재고 수량(Box)",
+    "value" : "saftItemCoun",
+    "width": "170px"
+  },
+  {
+    "text" :  "안전 재고 수량(ps)",
+    "value" : "saftItemPsCount",
+    "width": "170px",
+    "divider": true
+  },
+  {
+    "text" :  "창고 재고 수량(Box)",
+    "value" : "itemCount",
+    "width": "170px"
+  },
+  {
+    "text" :  "창고 재고 수량(ps)",
+    "value" : "itemPsCount",
+    "width": "170px"
+  },
+  {
+    "text" :  "창고 파손 재고 수량(ps)",
+    "value" : "itemDfPsCount",
+    "width": "200px"
+  }
+]

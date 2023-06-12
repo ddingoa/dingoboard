@@ -1,0 +1,183 @@
+[
+  {
+    "text" :  "포장 완료 여부",
+    "value" : "pkworkValue",
+    "groupable": false,
+    "width": "150px"
+  },
+  {
+    "text" :  "포장 계획 코드",
+    "value" : "pkoCode",
+    "width": "200px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장 코드",
+    "value" : "fabCode",
+    "width": "200px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장 명",
+    "value" : "fabName",
+    "width": "200px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "주문일",
+    "value" : "orderDate",
+    "width": "150px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "배송일",
+    "value" : "deliveryDate",
+    "width": "150px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "사용일",
+    "value" : "useDate",
+    "width": "150px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "수거예정일",
+    "value" : "pickupDate",
+    "width": "150px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래처 코드",
+    "value" : "vendorCd",
+    "width": "200px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "행정주소",
+    "value" : "address2",
+    "width": "200px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래처 명",
+    "value" : "vendorNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "반 코드",
+    "value" : "classCd",
+    "width": "200px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "반 인원",
+    "value" : "classNumber",
+    "width": "200px",
+    "groupable": false,
+    "align": " d-none"
+  },
+  {
+    "text" :  "반 명",
+    "value" : "className",
+    "groupable": false,
+    "width": "150px",
+    "divider": true
+  },
+  {
+    "text" :  "포장 단위",
+    "value" : "bizUnit",
+    "groupable": false,
+    "width": "120px",
+    "divider": true,
+    "align": " d-none"
+  },
+  {
+    "text" :  "제품 코드",
+    "value" : "goodsCd",
+    "groupable": false,
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "간식기",
+    "value" : "rrkis05",
+    "groupable": false,
+    "width": "100px",
+    "divider": true
+  },
+  {
+    "text" :  "포크",
+    "value" : "rrkis03",
+    "groupable": false,
+    "width": "100px",
+    "divider": true
+  },
+  {
+    "text" :  "젓가락",
+    "value" : "rrkis04",
+    "groupable": false,
+    "width": "100px",
+    "class": "red lighten-1",
+    "divider": true
+  },
+  {
+    "text" :  "숟가락",
+    "value" : "rrkis02",
+    "groupable": false,
+    "width": "100px",
+    "divider": true
+  },
+  {
+    "text" :  "3찬 식판",
+    "value" : "rrkis01",
+    "groupable": false,
+    "width": "100px",
+    "divider": true
+  },
+  {
+    "text" :  "4찬 식판",
+    "value" : "rrkis06",
+    "groupable": false,
+    "width": "100px",
+    "divider": true
+  },
+  {
+    "text" :  "선생님 식판",
+    "value" : "teacherQty",
+    "groupable": false,
+    "width": "110px",
+    "divider": true
+  },
+  {
+    "text" :  "배송 순서",
+    "value" : "deliveryCode",
+    "groupable": false,
+    "width": "120px"
+  },
+  {
+    "text" :  "포장 순서",
+    "value" : "daySeq",
+    "groupable": false,
+    "width": "120px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "주문 코드",
+    "value" : "orderNo",
+    "groupable": false,
+    "width": "80px",
+    "align": " d-none"
+  },
+  { "text": "Actions", "value": "actions",  "groupable": false, "sortable": "false","width": "150px"}
+]

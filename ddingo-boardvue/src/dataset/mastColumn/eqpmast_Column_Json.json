@@ -1,0 +1,93 @@
+[
+  { "text": "Actions", "value": "actions", "sortable": "false","width": "150px"},
+  {
+    "text" :  "설비코드",
+    "value" : "eqpCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "설비명",
+    "value" : "eqpName",
+    "width": "200px"
+  },
+  {
+    "text" :  "라인코드",
+    "value" : "lineCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장코드",
+    "value" : "fabCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장명",
+    "value" : "fabName",
+    "width": "200px"
+  },
+  {
+    "text" :  "운용시작일자",
+    "value" : "opStart",
+    "width": "200px"
+  },
+  {
+    "text" :  "취득금액",
+    "value" : "aqCost",
+    "width": "200px"
+  },
+  {
+    "text" :  "취득형태",
+    "value" : "aqForm",
+    "width": "200px"
+  },
+  {
+    "text" :  "정기 PM 구분",
+    "value" : "regularPm",
+    "width": "200px"
+  },
+  {
+    "text" :  "일일 점검",
+    "value" : "dyCheck",
+    "width": "200px"
+  },
+  {
+    "text" :  "주간 점검",
+    "value" : "wyCheck",
+    "width": "200px"
+  },
+  {
+    "text" :  "월간 점검",
+    "value" : "myCheck",
+    "width": "200px"
+  },
+  {
+    "text" :  "설비 관리자",
+    "value" : "eqpManager",
+    "width": "200px"
+  },
+  {
+    "text" :  "생성 시간",
+    "value" : "createdDate",
+    "width": "200px",
+    "dataType": "Date"
+  },
+  {
+    "text" :  "생성자",
+    "value" : "regCd",
+    "width": "100px"
+  },
+  {
+    "text" :  "수정 시간",
+    "value" : "modifiedDate",
+    "width": "200px",
+    "dataType": "Date"
+  },
+  {
+    "text" :  "수정자",
+    "value" : "modCd",
+    "width": "100px"
+  }
+]

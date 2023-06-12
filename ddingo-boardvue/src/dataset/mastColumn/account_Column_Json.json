@@ -1,0 +1,152 @@
+[
+  { "text": "", "value": "data-table-expand" },
+  {
+    "text" :  "서비스여부",
+    "value" : "vendorSt",
+    "width": "200px"
+  },
+  {
+    "text" :  "서비스시작일",
+    "value" : "chargeOpendate",
+    "width": "200px"
+  },
+  {
+  "text" :  "거래처 코드",
+  "value" : "vendorCd",
+    "width": "200px"
+  },
+  {
+    "text" :  "거래처 유형",
+    "value" : "custmerJob",
+    "width": "200px"
+  },
+  {
+    "text" :  "사업구분",
+    "value" : "divisionCd",
+    "width": "200px"
+  },
+  {
+    "text" :  "거래처 명",
+    "value" : "vendorNm",
+    "width": "250px"
+  },
+  {
+    "text" :  "대표자",
+    "value" : "ceoNm",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "사업자번호",
+    "value" : "regno",
+    "width": "200px"
+  },
+  {
+    "text" :  "업태",
+    "value" : "bizStatus",
+    "width": "100px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "종목",
+    "value" : "bizClass",
+    "width": "100px"
+  },
+  {
+    "text" :  "전화번호",
+    "value" : "telno",
+    "width": "200px"
+  },
+  {
+    "text" :  "팩스번호",
+    "value" : "faxno",
+    "width": "200px"
+  },
+  {
+    "text" :  "우편 번호",
+    "value" : "zipCd",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "상세 주소",
+    "value" : "address1",
+    "width": "450px"
+  },
+  {
+    "text" :  "권역",
+    "value" : "address2",
+    "width": "200px"
+  },
+  {
+    "text" :  "세금계산서 이메일",
+    "value" : "taxRcpPlace",
+    "width": "200px"
+  },
+  {
+    "text" :  "정산서 담당자",
+    "value" : "adjDesk",
+    "width": "200px"
+  },
+  {
+    "text" :  "정산서 담당자번호",
+    "value" : "adjMan",
+    "width": "200px"
+  },
+  {
+    "text" :  "주문 담당자",
+    "value" : "orderMan",
+    "width": "200px"
+  },
+  {
+    "text" :  "주문 담당자번호",
+    "value" : "orderDesk",
+    "width": "200px"
+  },
+  {
+    "text" :  "영업 형태",
+    "value" : "saleType",
+    "width": "200px"
+  },
+  {
+    "text" :  "영업 담당자",
+    "value" : "bdEmpNo",
+    "width": "200px"
+  },
+  {
+    "text" :  "정상일자",
+    "value" : "adjDate",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "휴일 적용 여부",
+    "value" : "holidaysApply",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "CMS 코드",
+    "value" : "cmsNo",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "키즈 노트 코드",
+    "value" : "kidsNoteCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "배송 형태",
+    "value" : "deliveryType",
+    "width": "400px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "비고",
+    "value" : "remark",
+    "width": "400px",
+    "align": " d-none"
+  }
+]

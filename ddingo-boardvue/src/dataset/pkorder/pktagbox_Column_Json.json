@@ -1,0 +1,79 @@
+[
+  { "text": "Actions", "value": "actions", "sortable": "false", "width": "150px" },
+  {
+    "text" :  "포장 계획 코드",
+    "value" : "cmsCode",
+    "width": "200px"
+  },
+  {
+    "text" :  "사용일",
+    "value" : "cmsCode",
+    "width": "200px"
+  },
+  {
+    "text" :  "배송일",
+    "value" : "cmsCode",
+    "width": "200px"
+  },
+  {
+    "text" :  "공장 코드",
+    "value" : "cmsCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장 명",
+    "value" : "cmsCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "제품 코드",
+    "value" : "cmsCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "제품 명",
+    "value" : "거래처명",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "박스 태그",
+    "value" : "cmsCode",
+    "width": "200px"
+  },
+  {
+    "text" :  "태그 출력 여부",
+    "value" : "cmsCode",
+    "width": "200px"
+  },
+  {
+    "text" :  "재출력 요청 여부",
+    "value" : "cmsCode",
+    "width": "200px"
+  },
+  {
+    "text" :  "생성 시간",
+    "value" : "createdDate",
+    "width": "200px",
+    "dataType": "Date"
+  },
+  {
+    "text" :  "생성자",
+    "value" : "regCd",
+    "width": "100px"
+  },
+  {
+    "text" :  "수정 시간",
+    "value" : "modifiedDate",
+    "width": "200px",
+    "dataType": "Date"
+  },
+  {
+    "text" :  "수정자",
+    "value" : "modCd",
+    "width": "100px"
+  }
+]

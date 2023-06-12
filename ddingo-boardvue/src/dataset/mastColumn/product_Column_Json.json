@@ -1,0 +1,62 @@
+[
+  {
+    "text" :  "상품코드",
+    "value" : "goodsCd",
+    "width": "200px"
+  },
+  {
+    "text" :  "사업부",
+    "value" : "divisionCd",
+    "width": "200px"
+  },
+  {
+    "text" :  "상품 종류",
+    "value" : "goodsType",
+    "width": "200px"
+  },
+  {
+    "text" :  "상품명",
+    "value" : "goodsNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "재질",
+    "value" : "material",
+    "width": "200px"
+  },
+  {
+    "text" :  "색상",
+    "value" : "color",
+    "width": "200px"
+  },
+  {
+    "text" :  "중량",
+    "value" : "weight",
+    "width": "250px"
+  },
+  {
+    "text" :  "Box당 포장 수량(ps)",
+    "value" : "packingQuantity",
+    "width": "200px"
+  },
+  {
+    "text" :  "비닐포장 여부",
+    "value" : "plasticWrap",
+    "width": "200px"
+  },
+  {
+    "text" :  "자산 형태",
+    "value" : "assetType",
+    "width": "200px"
+  },
+  {
+    "text" :  "매입 단가",
+    "value" : "purchasePrice",
+    "width": "100px"
+  },
+  {
+    "text" :  "비고",
+    "value" : "remark",
+    "width": "200px"
+  }
+]

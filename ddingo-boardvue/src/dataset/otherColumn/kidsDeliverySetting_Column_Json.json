@@ -1,0 +1,18 @@
+[
+  {
+    "text" :  "거래처코드",
+    "value" : "vendorCd",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래처명",
+    "value" : "vendorNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "행정주소",
+    "value" : "address1",
+    "width": "200px"
+  }
+]

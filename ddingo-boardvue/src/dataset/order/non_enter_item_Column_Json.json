@@ -1,0 +1,51 @@
+[
+  {
+    "text" :  "입고일",
+    "value" : "workStart",
+    "width": "200px"
+  },
+  {
+    "text" :  "거래처 코드",
+    "value" : "accountCode",
+    "width": "150px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래처명",
+    "value" : "accountName",
+    "width": "200px"
+  },
+  {
+    "text" :  "사업부",
+    "value" : "bussiness",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "품목",
+    "value" : "itemName",
+    "width": "200px",
+    "divider": true
+  },
+  {
+    "text" :  "미수거량(ps)",
+    "value" : "nonitemcount",
+    "width": "200px"
+  },
+  {
+    "text" :  "주문수량(ps)",
+    "value" : "inItemCount",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "입고수량(ps)",
+    "value" : "enterItem",
+    "width": "200px"
+  },
+  {
+    "text" :  "입고 불량 수량(ps)",
+    "value" : "dfCount",
+    "width": "200px"
+  }
+]

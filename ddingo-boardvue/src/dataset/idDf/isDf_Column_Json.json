@@ -1,0 +1,67 @@
+[
+  { "text": "Img Open", "value": "Open", "sortable": "false","width": "120px"},
+  { "text": "Actions", "value": "actions", "sortable": "false","width": "200px"},
+  {
+    "text" :  "DF Code",
+    "value" : "dfCode",
+    "width": "200px"
+  },{
+  "text" :  "공장 코드",
+  "value" : "fabCode",
+  "width": "200px"
+},{
+  "text" :  "공장  명",
+  "value" : "fabName",
+  "width": "200px"
+},{
+  "text" :  "제품 코드",
+  "value" : "itemCode",
+  "width": "200px"
+},{
+  "text" :  "제품 명",
+  "value" : "itemName",
+  "width": "200px"
+},{
+  "text" :  "불량명",
+  "value" : "dfName",
+  "width": "200px"
+},{
+  "text" :  "불량 수량",
+  "value" : "dfCount",
+  "width": "200px"
+},{
+  "text" :  "처리 상태",
+  "value" : "actStatus",
+  "width": "200px"
+},{
+  "text" :  "검수자",
+  "value" : "insManager",
+  "width": "200px"
+},{
+  "text" :  "검수시간",
+  "value" : "insTime",
+  "width": "200px"
+},
+  {
+    "text" :  "생성 시간",
+    "value" : "createdDate",
+    "width": "200px",
+    "dataType": "Date"
+  },
+  {
+    "text" :  "생성자",
+    "value" : "regCd",
+    "width": "100px"
+  },
+  {
+    "text" :  "수정 시간",
+    "value" : "modifiedDate",
+    "width": "200px",
+    "dataType": "Date"
+  },
+  {
+    "text" :  "수정자",
+    "value" : "modCd",
+    "width": "100px"
+  }
+  ]

@@ -1,0 +1,36 @@
+[
+  { "text": "", "value": "data-table-expand" ,"width": "80px"},
+  { "text": "Actions", "value": "actions","width": "80px"},
+  {
+    "text" :  "주간 근무",
+    "value" : "weekly",
+    "width": "100px"
+  },
+  {
+    "text" :  "야간 근무",
+    "value" : "night",
+    "width": "100px"
+  },
+  {
+    "text" :  "작업 코드",
+    "value" : "workCode",
+    "width": "100px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "작업 명",
+    "value" : "workName",
+    "width": "100px"
+  },
+  {
+    "text" :  "작업자 코드",
+    "value" : "opCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "작업자 명",
+    "value" : "opName",
+    "width": "200px"
+  }
+]

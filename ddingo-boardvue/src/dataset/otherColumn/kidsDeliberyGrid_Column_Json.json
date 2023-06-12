@@ -1,0 +1,53 @@
+[
+  { "text": "Actions", "value": "actions", "sortable": "false","width": "150px"},
+  {
+    "text" :  "배송순서",
+    "value" : "deliveryCode",
+    "width": "200px"
+  },
+  {
+    "text" :  "배송기사",
+    "value" : "deliveryMd",
+    "width": "200px"
+  },
+  {
+    "text" :  "행정주소",
+    "value" : "address1",
+    "width": "200px"
+  },
+  {
+    "text" :  "거래처 코드",
+    "value" : "vendorCd",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래처명",
+    "value" : "vendorNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "생성 시간",
+    "value" : "createdDate",
+    "width": "200px",
+    "dataType": "Date"
+  },
+  {
+    "text" :  "생성자",
+    "value" : "regCd",
+    "width": "100px"
+  },
+  {
+    "text" :  "수정 시간",
+    "value" : "modifiedDate",
+    "width": "200px",
+    "dataType": "Date",
+    "align": " d-none"
+  },
+  {
+    "text" :  "수정자",
+    "value" : "modCd",
+    "width": "100px",
+    "align": " d-none"
+  }
+]

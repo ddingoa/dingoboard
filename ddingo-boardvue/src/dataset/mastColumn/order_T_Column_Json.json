@@ -1,0 +1,146 @@
+[
+  {
+    "text" :  "주문 번호",
+    "width": "200px",
+    "value" : "orderNo",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장 코드",
+    "value" : "fabCode",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "공장 명",
+    "value" : "fabName",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "사업부 코드",
+    "width": "200px",
+    "value" : "divisionCd",
+    "align": " d-none"
+  },
+  {
+    "text" :  "주문 금액",
+    "width": "200px",
+    "value" : "orderAmount",
+    "align": " d-none"
+  },
+  {
+    "text" :  "주문일",
+    "value" : "orderDate",
+    "width": "200px"
+  },
+  {
+    "text" :  "배송일",
+    "value" : "deliveryDate",
+    "width": "200px"
+  },
+  {
+    "text" :  "사용일",
+    "value" : "useDate",
+    "width": "200px"
+  },
+  {
+    "text" :  "예상 수거일",
+    "value" : "pickupDate",
+    "width": "200px"
+  },
+  {
+    "text" :  "거래처 코드",
+    "value" : "vendorCd",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래처 명",
+    "value" : "vendorNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "유상 여부",
+    "width": "200px",
+    "value" : "chargeYn"
+  },
+  {
+    "text" :  "제품 코드",
+    "value" : "goodsCd",
+    "width": "200px",
+    "align": " d-none"
+  },
+  {
+    "text" :  "제품 명",
+    "value" : "goodsNm",
+    "width": "200px"
+  },
+  {
+    "text" :  "제품 수량(Box)",
+    "value" : "orderQty",
+    "width": "200px"
+  },
+  {
+    "text" :  "제품 수량(EA)",
+    "value" : "eaQty",
+    "width": "200px"
+  },
+  {
+    "text" :  "포장 수량",
+    "value" : "boxInQty",
+    "width": "200px"
+  },
+  {
+    "text" :  "주말 운영 여부",
+    "value" : "holidaysApply",
+    "width": "80px"
+  },
+  {
+    "text" :  "주문일련번호",
+    "width": "200px",
+    "value" : "ordernoSeq",
+    "align": " d-none"
+  },
+  {
+    "text" :  "배송지 번호",
+    "width": "200px",
+    "value" : "deliveryNo"
+  },
+  {
+    "text" :  "반코드",
+    "width": "200px",
+    "value" : "classCd",
+    "align": " d-none"
+  },
+  {
+    "text" :  "상품그룹 코드",
+    "width": "200px",
+    "value" : "goodsGroupCd",
+    "align": " d-none"
+  },
+  {
+    "text" :  "거래 단위",
+    "width": "200px",
+    "value" : "bizUnit",
+    "align": " d-none"
+  },
+  {
+    "text" :  "비고",
+    "width": "200px",
+    "value" : "remark",
+    "align": " d-none"
+  },
+  {
+    "text" :  "마감 여부",
+    "width": "200px",
+    "value" : "closeYn",
+    "align": " d-none"
+  },
+  {
+    "text" :  "주문입력구분",
+    "width": "200px",
+    "value" : "keyinType",
+    "align": " d-none"
+  }
+]
